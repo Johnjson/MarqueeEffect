@@ -1,1 +1,2 @@
-include ':app', ':librarys:marquee_lib'
+include ':app'
+//, ':librarys:marquee_lib'
